@@ -10,4 +10,4 @@ if numero > 5:
 elif numero ==5:
   print("Es igual a 5")
 else:
-  print("es menor a 5")
+  print("es menor a 5")6
