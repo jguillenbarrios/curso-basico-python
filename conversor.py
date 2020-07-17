@@ -15,6 +15,7 @@ Bienvenido a mi conversor de monedas 💵
 3 - Pesos Argentinos
 
 Elige una opcion: """
+
 opcion = input(menu)
 
 if opcion == '1':
